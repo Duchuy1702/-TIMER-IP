@@ -139,3 +139,16 @@ THCSR
 Diagram
 <p align="center">
   <img src="./ảnh/ảnh10.png" width="500">
+
+Testcase
+
+<p align="center">
+  <img src="./ảnh/ảnh11.jpg" width="500">
+
+Kết quả của Golden model
+<p align="center">
+  <img src="./ảnh/ảnh12.jpg" width="500">
+
+Coverage
+<p align="center">
+  <img src="./ảnh/ảnh14.jpg" width="500">
