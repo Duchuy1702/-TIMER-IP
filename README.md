@@ -1,4 +1,8 @@
 #### TIMER-IP
+
+ ###### ⚠️ Do nội dung được public nhằm phục vụ mục đích tham khảo của nhà tuyển dụng, trong quá trình này em tình cờ phát hiện một số người quen sao chép RTL code cùng toàn bộ nội dung tại đây để đưa trực tiếp vào CV/portfolio cá nhân mà không xin phép.
+ ###### Em xin cam kết rằng tất cả các project được trình bày đều do em tự thực hiện 100% (team size: 1). Toàn bộ ý tưởng, hình ảnh, RTL code, datapath đều là sản phẩm do em tự xây dựng, không có sự tham gia của bất kỳ người thứ hai nào. ****
+
 1.Overview
 
 1.1. Introduction
