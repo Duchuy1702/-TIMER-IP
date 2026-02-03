@@ -156,3 +156,7 @@ Kết quả của Golden model
 Coverage
 <p align="center">
   <img src="./ảnh/ảnh14.jpg" width="500">
+
+-----------------------------------------------------------------------------------------------------------
+  <p align="center">
+  <img src="./ảnh/ảnh15.png" width="500">
